@@ -1,1 +1,2 @@
-'''npm start''' to run the app.
+# Run the app
+**npm** start to run the app.
